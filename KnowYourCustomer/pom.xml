@@ -8,10 +8,9 @@
   <groupId>org.testcompany.KYC</groupId>
   <artifactId>KnowYourCustomer</artifactId>
   <version>1.0.0-SNAPSHOT</version>
-
-  <name>jBPM :: KnowYourCustomer</name>
-  <description></description>
   <packaging>kjar</packaging>
+  <name>KnowYourCustomer</name>
+  <description></description>
 
   
   <dependencies>
