@@ -2,19 +2,6 @@ package org.testcompany.KYC;
 
 import java.util.List;
 
-import javax.persistence.EntityManagerFactory;
-import javax.persistence.Persistence;
-
-import org.kie.api.KieBase;
-import org.kie.api.KieServices;
-import org.kie.api.runtime.KieContainer;
-import org.kie.api.runtime.KieSession;
-import org.kie.api.runtime.manager.RuntimeEngine;
-import org.kie.api.runtime.manager.RuntimeEnvironmentBuilder;
-import org.kie.api.runtime.manager.RuntimeManager;
-import org.kie.api.runtime.manager.RuntimeManagerFactory;
-import org.kie.api.task.TaskService;
-import org.kie.api.task.model.TaskSummary;
 
 public class ProcessMain {
 
